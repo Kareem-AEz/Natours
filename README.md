@@ -10,7 +10,7 @@ Natours is a responsive travel website built using advanced CSS and Sass techniq
 
 ## Overview
 
-Natours is a fictional travel agency website designed to demonstrate advanced CSS and Sass skills. The project showcases a modern, visually appealing design with advanced CSS and includes the use of (old-school) float and table layouts.
+Natours is a fictional travel agency website demonstrating advanced CSS and Sass skills. The project showcases a modern, visually appealing design with advanced CSS and includes the use of (old-school) float and table layouts.
 
 ## Features
 
@@ -29,4 +29,4 @@ Natours is a fictional travel agency website designed to demonstrate advanced CS
 - Float
 - Table
 - SVG
-- npm for compiling, concatenating, compressing, and building
+- npm for compiling, concatenating, prefixing, compressing, and building
