@@ -31,3 +31,4 @@ Natours is a fictional travel agency website demonstrating advanced CSS and Sass
 - SVG
 - npm for compiling, concatenating, prefixing, compressing, and building
 - 7-1 pattern (architecture)
+- Art direction, Denisty, and Resolution switching (responsive images)
